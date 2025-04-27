@@ -1,5 +1,5 @@
 {
-  "prefix": "/",
+  "prefix": "$",
   "nordColors": {
     "primary": "#88C0D0",
     "success": "#A3BE8C",
