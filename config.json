@@ -1,0 +1,35 @@
+{
+  "prefix": "/",
+  "nordColors": {
+    "primary": "#88C0D0",
+    "success": "#A3BE8C",
+    "warning": "#EBCB8B",
+    "danger": "#BF616A"
+  },
+  "roles": {
+    "adminId": "",
+    "moderatorId": "",
+    "staffId": ""
+  },
+  "ticketSettings": {
+    "transcriptEnabled": true,
+    "staffPoints": true,
+    "logChannelId": "",
+    "staffRoleIds": [],
+    "categoryId": "",
+    "welcomeMessage": "Welcome {user} to your ticket!\nA staff member will be with you shortly.",
+    "ticketLimit": 1,
+    "closeConfirmation": true
+  },
+  "commandSettings": {
+    "ban": true,
+    "kick": true,
+    "mute": true,
+    "warn": true,
+    "ticket": true,
+    "come": true,
+    "rename": true,
+    "close": true,
+    "embed": true
+  }
+}
